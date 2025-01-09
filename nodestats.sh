@@ -56,8 +56,8 @@ echo "Chain: $chain"
 echo "P2P Address: $p2p_onion_address"
 echo -e "Node Uptime: $uptime_formatted\n"
 
-echo "Blocks: $blocks"
-echo "Headers: $headers"
+echo "Blocks Synced: $blocks"
+echo "Current Height: $headers"
 echo -e "Blockchain Size: $blockchain_size\n"
 
 echo "Difficulty: $difficulty"
